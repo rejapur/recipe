@@ -11,7 +11,6 @@
 /log/*
 !/log/.keep
 /tmp
-=======
 *.rbc
 capybara-*.html
 .rspec
@@ -48,4 +47,4 @@ config/application.yml
 bower.json
 
 # Ignore pow environment settings
-.powenv 
+.powenv
